@@ -12,6 +12,8 @@ To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the ter
 
 `python3 -m http.server`
 
+python3 manage.py runserver
+
 A blue button should appear to click: _Make Public_,
 
 Another blue button should appear to click: _Open Browser_.
